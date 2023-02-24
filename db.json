@@ -50467,6 +50467,15 @@
       "email": "devn5900@gmail.com",
       "isLogged": false,
       "cartItem": []
+    },
+    {
+      "name": "admin1",
+      "avatar": "",
+      "password": "admin1",
+      "email": "admin1@gmail.com",
+      "isLogged": false,
+      "cartItem": [],
+      "id": 2
     }
   ]
 }
